@@ -1,10 +1,15 @@
 # MSoOHC
 Making Sense of  Organizational Hierarchy Charts with AI for SNA
 
-# Goal 
-Automate some of the steps of research that uses Organizational Hierarchy Charts (captured in .png images files) and Social Network Analysis. 
+# Key Value Proposition
 
-It eases the process of comparing formal structures (hirarchy) with unformal knolwedge from in social networks.
+Automate key steps in organizational network analysis by analyzing formal hierarchies (from .png organizational charts). So they can be compared with informal knowledge flows (from social network analysis).
+
+
+1. Automates Tedious Manual Work
+2. Extracts structure from org charts (positions of actors, reporting lines)
+2. Maps the position of actors in the organizational chart (people, teams, roles, department, etc)
+4. Saves hours of manual chart annotation and alignment
 
 # Inputs 
 
